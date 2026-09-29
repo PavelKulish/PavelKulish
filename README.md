@@ -1,6 +1,6 @@
 ## Hi, I'm Pasha 👋
 
-3rd year student at DASR MIPT </br>
+4th year student at DASR MIPT </br>
 Beginner Data Scientist </br>
 
 
